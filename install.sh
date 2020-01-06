@@ -805,7 +805,7 @@ install_v2ray() {
 		cp -rf $(pwd)/* /etc/v2ray/233boy/v2ray
 	else
 		pushd /tmp
-		git clone https://github.com/weihebu/v2ray/tree/weihebu-patch1 /etc/v2ray/233boy/v2ray --depth=1
+		git clone https://github.com/weihebu/v2ray.git /etc/v2ray/233boy/v2ray --depth=1
 		popd
 
 	fi
