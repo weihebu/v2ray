@@ -3,5 +3,5 @@
                     "protocol": [
                         "bittorrent"
                     ],
-                    "outboundTag": "blocked"
+                    "outboundTag": "direct"
                 }
