@@ -7,6 +7,9 @@ _load ss-config.sh
 # socks
 _load socks-config.sh
 
+# ban bt
+_load ban_bt.sh
+
 # mtproto
 _load mtproto-config.sh
 
