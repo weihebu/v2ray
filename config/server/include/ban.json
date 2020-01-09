@@ -1,7 +1,7 @@
 			{
 				"type": "field",
 				"domain": [
-					"domain:epochtimes.fr"
+					"domain:aaa.com"
 				],
-				"outboundTag": "direct"
+				"outboundTag": "blocked"
 			}
